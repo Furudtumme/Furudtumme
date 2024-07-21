@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Merhaba! Hallo! Halløj! Salut! Namaste! Olá! Hola! Yā! Nǐ hǎo! Privet! Anyoung!<br> I'm Ilayda! I'm a computer science student, coffee and computer lover. I'm working on Java and Swift (yet). I'm just at the beginning of the road but if i have enough coffee tanks, you need to catch up with me.
+Hi! Merhaba! Hallo! Halløj! Salut! Namaste! Olá! Hola! Yā! Nǐ hǎo! Privet! Anyoung!<br> I'm Ilayda! I'm a computer science student, coffee and computer lover. I'm working on Java, C# and Swift (yet). I'm just at the beginning of the road but if i have enough coffee tanks, you need to catch up with me.
 
 
 ## 🌐 Socials:
